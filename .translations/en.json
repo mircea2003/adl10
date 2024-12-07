@@ -1,0 +1,15 @@
+{
+    "config": {
+      "title": "ACREL ADL10",
+      "step": {
+        "user": {
+          "title": "Set up ACREL ADL10",
+          "data": {
+            "host": "Host",
+            "port": "Port"
+          }
+        }
+      }
+    }
+  }
+  
